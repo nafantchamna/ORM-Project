@@ -1,0 +1,12 @@
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\bin\Debug\ORM.Project.exe.config
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\bin\Debug\ORM.Project.exe
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\bin\Debug\ORM.Project.pdb
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\obj\Debug\ORM.Project.csprojAssemblyReference.cache
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\obj\Debug\ORM.Project.csproj.CoreCompileInputs.cache
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\obj\Debug\ORM.Project.exe
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\obj\Debug\ORM.Project.pdb
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\bin\Debug\EntityFramework.dll
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\bin\Debug\EntityFramework.xml
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\treinamento\Desktop\ProjetoTreinamnet\ORM.Project\ORM.Project\obj\Debug\ORM.Project.csproj.CopyComplete
